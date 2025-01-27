@@ -5,7 +5,7 @@
 Follow these steps to set up and run the fact-checking engine:
 
 1. Download the Zip File:
-   - Go to the repository on GitHub: https://github.com/LABlidh/kn_mini_project
+   - Go to the repository on GitHub: https://github.com/RohiniMaity/FactCheck_with_KnowledgeGraph
    - Click on the "Code" button
    - Select "Download ZIP"
 
